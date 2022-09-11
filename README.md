@@ -63,6 +63,7 @@
       <img width="64px" src="https://github.com/chanmorales/chanmorales/blob/master/images/language%20logos/git.png"/>
     </a>
   </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <h2>Certification Badges</h2>
   <a href="https://www.credly.com/badges/5da5742b-225e-4e03-9b6c-2392045f5bb5/linked_in_profile">
     <img width="192px" src="https://images.credly.com/size/680x680/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png"/>
