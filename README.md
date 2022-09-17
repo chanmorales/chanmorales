@@ -13,7 +13,9 @@
   </a>
   <br/>
   <br/>
-  <img src="https://www.codewars.com/users/chan2x_M/badges/large"/>
+  <a href="https://www.codewars.com/users/chan2x_M">
+    <img src="https://www.codewars.com/users/chan2x_M/badges/large"/>
+  </a>
   <br/>
   <a href="https://github.com/chanmorales">
     <img width="49.5%" 
