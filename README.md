@@ -22,7 +22,7 @@
          src="https://github-readme-stats.vercel.app/api?username=chanmorales&hide_title=true&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
     <img width="49.5%" 
          src="https://streak-stats.demolab.com/?user=chanmorales&hide_border=true&theme=github-dark-blue"/>
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=chanmorales&theme=github-dark&hide_title=true&hide_border=true"/>
+    <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=chanmorales&theme=github-dark&hide_title=true&hide_border=true"/>
   </a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <h2>Technology Stack</h2>
