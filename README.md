@@ -71,7 +71,7 @@
   <a href="https://www.credly.com/badges/5da5742b-225e-4e03-9b6c-2392045f5bb5/linked_in_profile">
     <img width="192px" src="https://images.credly.com/size/680x680/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png"/>
   </a>
-  <a href="https://www.credly.com/badges/a756c237-45e8-4084-aa49-9b7dc336ca85/linked_in_profile">
+  <a href="https://images.credly.com/size/680x680/images/6ba2730e-fe1a-469b-a4e2-c57a4032e270/image.png">
     <img width="192px" src="https://images.credly.com/size/680x680/images/146392e3-98fb-4712-b630-a1058f642e31/cpa.png"/>
   </a>
 </div>
